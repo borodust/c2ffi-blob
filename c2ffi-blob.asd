@@ -1,0 +1,7 @@
+(asdf:defsystem :c2ffi-blob
+  :description "c2ffi executables for various platforms"
+  :version "1.0.0"
+  :author "Pavel Korolev"
+  :mailto "dev@borodust.org"
+  :license "MIT"
+  :depends-on (:claw-support))
