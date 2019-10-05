@@ -4,4 +4,5 @@
   :author "Pavel Korolev"
   :mailto "dev@borodust.org"
   :license "MIT"
-  :depends-on (:claw-support))
+  :depends-on (:claw-support)
+  :components ((:file "c2ffi")))
