@@ -4,7 +4,8 @@ Precompiled `c2ffi` executables for various platforms to use with `:claw`
 project.
 
 ## Dependencies
-For GNU\Linux you would need to have `libstdc++` installed.
+For GNU\Linux you need to have `libstdc++` installed.
+For MacOSX systems - `libc++` (`xcode-select --install`).
 
 ## CMake
 ```sh
