@@ -4,5 +4,6 @@
   :author "Pavel Korolev"
   :mailto "dev@borodust.org"
   :license "MIT"
+  :defsystem-depends-on (:trivial-features)
   :depends-on (:claw-support)
   :components ((:file "c2ffi")))
